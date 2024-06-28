@@ -21,7 +21,7 @@ repository               : "Purnacs/Purnacs.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Purna Chandra Sekhar V"
   pronouns         : "he/him"  
   bio              : "Undergrad"
